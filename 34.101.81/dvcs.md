@@ -879,7 +879,7 @@ certs может вообще не возвращаться.
       }
     END
 
-# <a name="Biblio"></a>Библиография
+# <a name="99"></a>Библиография
 
 [1] <a name="99.1"></a>
 Adams C., Sylvester P., Zolotarev M., Zuccherato R. 
